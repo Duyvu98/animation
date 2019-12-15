@@ -1,0 +1,10 @@
+.ninja{
+    background: url(./vimal-durai-ninja-sprite-sheet.jpg) red;
+    widows: 309px; 
+    height: 325px;
+    background-position-y: ;
+    animation: mymove 0.5 steps(5) infinite;
+}
+@keyframes mymove{
+    100% {background-position-x: -1920;}
+}
